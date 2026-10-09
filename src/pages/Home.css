@@ -1,0 +1,33 @@
+
+/* ==========================================
+   HOME PAGE STYLES
+========================================== */
+
+/* Establish an isolated stacking context
+   for the entire home page. */
+
+.home-page {
+  isolation: isolate;
+}
+
+/* ==========================================
+   HERO SECTION SCROLL OFFSET
+========================================== */
+
+/* Adjust the scroll position of the section
+   immediately following the Hero section. */
+
+.home-page .hero + .section {
+  scroll-margin-top: 78px;
+}
+
+/* ==========================================
+   SECTION ANCHOR SCROLL OFFSET
+========================================== */
+
+/* Prevent fixed or sticky navigation from
+   covering sections when using anchor links. */
+
+.home-page section[id] {
+  scroll-margin-top: 90px;
+}
