@@ -20,6 +20,16 @@ import {
 
 const services = [
   [
+    "Entrümpelung & Entsorgung",
+    "Wir schaffen Platz und entsorgen fachgerecht.",
+    Truck,
+  ],
+  [
+    "Umzug & Transport",
+    "Sicher, planbar und mit dem Blick fürs Detail.",
+    Truck,
+  ],
+  [
     "Büroreinigung",
     "Saubere Arbeitsplätze für konzentriertes Arbeiten.",
     Sparkles,
@@ -59,16 +69,7 @@ const services = [
     "Ordentliche Außenbereiche, die Eindruck machen.",
     Leaf,
   ],
-  [
-    "Entrümpelung & Entsorgung",
-    "Wir schaffen Platz und entsorgen fachgerecht.",
-    Truck,
-  ],
-  [
-    "Umzug & Transport",
-    "Sicher, planbar und mit dem Blick fürs Detail.",
-    Truck,
-  ],
+
 ];
 
 // ==========================================

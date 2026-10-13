@@ -49,9 +49,7 @@ export default function Hero() {
 
         <p className="hero-copy">
           Schnell, gründlich und zuverlässig.
-          Wir kümmern uns um Reinigung,
-          Entrümpelung, Umzüge und Facility
-          Services in Düsseldorf und Umgebung.
+          Wir sind Ihr zuverlässiger Partner für Umzüge, Facility Services, Reinigung und Entrümpelung in Düsseldorf und Umgebung.
         </p>
 
         {/* ======================================
