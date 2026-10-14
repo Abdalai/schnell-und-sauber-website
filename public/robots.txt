@@ -1,0 +1,12 @@
+# ==========================================
+# SEARCH ENGINE CRAWLER RULES
+# ==========================================
+
+User-agent: *
+Allow: /
+
+# ==========================================
+# XML SITEMAP LOCATION
+# ==========================================
+
+Sitemap: https://www.schnellundsauber-duesseldorf.de/sitemap.xml
