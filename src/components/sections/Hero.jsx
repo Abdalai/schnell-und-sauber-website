@@ -40,7 +40,7 @@ export default function Hero() {
 
         <h1>
           Professionelle Umzugs &amp;{" "}
-          <em>Reinigungsservices</em> in Düsseldorf
+          <em>Reinigung Service</em> in Düsseldorf
         </h1>
 
         {/* ======================================
