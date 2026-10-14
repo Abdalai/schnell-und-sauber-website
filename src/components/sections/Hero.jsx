@@ -39,8 +39,8 @@ export default function Hero() {
         ====================================== */}
 
         <h1>
-          Professionelle Reinigung &amp;{" "}
-          <em>Facility Service</em> in Düsseldorf
+          Professionelle Umzugs &amp;{" "}
+          <em>Reinigungsservices</em> in Düsseldorf
         </h1>
 
         {/* ======================================
