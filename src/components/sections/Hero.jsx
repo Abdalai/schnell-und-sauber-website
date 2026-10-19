@@ -31,7 +31,7 @@ export default function Hero() {
 
         <p className="eyebrow">
           <span />
-          FACILITY SERVICE · DÜSSELDORF
+          FACILITY SERVICE · Düsseldorf
         </p>
 
         {/* ======================================
@@ -40,7 +40,7 @@ export default function Hero() {
 
         <h1>
           Professionelle Umzugs &amp;{" "}
-          <em>Reinigung Service</em> in Düsseldorf
+          <em>Reinigung Service</em> in Deutschland
         </h1>
 
         {/* ======================================
@@ -49,7 +49,7 @@ export default function Hero() {
 
         <p className="hero-copy">
           Schnell, gründlich und zuverlässig.
-          Wir sind Ihr zuverlässiger Partner für Umzüge, Facility Services, Reinigung und Entrümpelung in Düsseldorf und Umgebung.
+          Wir sind Ihr zuverlässiger Partner für Umzüge, Facility Services, Reinigung und Entrümpelung in Deutschland.
         </p>
 
         {/* ======================================

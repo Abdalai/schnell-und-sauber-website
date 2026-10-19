@@ -160,7 +160,7 @@ export default function Home() {
           {/* Section Image */}
           <div className="split-image">
             <img
-              src="/images/clean-office.png"
+              src="/images/team.jpeg"
               alt="Aufgeräumte Bürofläche"
             />
           </div>

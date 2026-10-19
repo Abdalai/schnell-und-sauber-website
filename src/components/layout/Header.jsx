@@ -56,7 +56,7 @@ export default function Header() {
 
           <span>
             <strong>SCHNELL UND SAUBER</strong>
-            <small>Facility Service · Düsseldorf</small>
+            <small>Facility Service · Charlottenstr. 57, 40210 Düsseldorf</small>
           </span>
         </a>
 

@@ -86,7 +86,7 @@ export default function Contact() {
 
               <span>
                 <small>Standort</small>
-                Düsseldorf, Nordrhein-Westfalen
+                Charlottenstr. 57, 40210 Düsseldorf
               </span>
             </div>
 

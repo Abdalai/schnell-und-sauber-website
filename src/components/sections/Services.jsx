@@ -194,5 +194,3 @@ export default function Services() {
 // SERVICES DATA EXPORT
 // ==========================================
 
-// Export services for reuse in other components.
-export { services };

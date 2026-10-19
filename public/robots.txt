@@ -9,4 +9,4 @@ Allow: /
 # XML SITEMAP LOCATION
 # ==========================================
 
-Sitemap: https://www.schnellundsauber-duesseldorf.de/sitemap.xml
+Sitemap: https://www.schnellundsauber.com/sitemap.xml

@@ -60,7 +60,7 @@ export default function Footer() {
             {email}
           </a>
 
-          <span>Düsseldorf, NRW</span>
+          <span>Charlottenstr. 57, 40210 Düsseldorf</span>
         </div>
       </div>
 
